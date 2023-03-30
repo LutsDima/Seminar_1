@@ -3,20 +3,47 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-Console.WriteLine("Введите первое число: ");
+// Console.Clear();
+// Console.Write("Введите первое число: ");
+// double Number_a = Convert.ToDouble(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// double Number_b = Convert.ToDouble(Console.ReadLine());
+
+// if (Number_a > Number_b)
+// {
+//     Console.WriteLine($"max = {Number_a} ");
+// }
+// else if (Number_a < Number_b)
+// {
+//     Console.WriteLine($"max = {Number_b} ");
+// }
+// else 
+// {
+//     Console.WriteLine("Числа равны");
+// }
+
+// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+// 2, 3, 7 -> 7
+// 44 5 78 -> 78
+// 22 3 9 -> 22
+
+Console.Clear();
+Console.Write("Введите первое число: ");
 double Number_a = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Введите второе число");
-double Number_b = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите второе число: ");
+double Number_b = Convert.ToDouble(Console.ReadLine()); 
+Console.Write("Введите третье число: ");
+double Number_c = Convert.ToDouble(Console.ReadLine()); 
+double Number_max = Number_a;
 
 if (Number_a > Number_b)
 {
-    Console.WriteLine($"max = {Number_a} ");
+    Number_max = Number_a;
 }
-else if (Number_a < Number_b)
+else if (Number_b > Number_c)
 {
-    Console.WriteLine($"max = {Number_b} ");
+    Number_max = Number_b;
 }
-else 
-{
-    Console.WriteLine("Числа равны");
-}
+else Number_max = Number_c;
+
+Console.WriteLine($"Максимальное число = {Number_max}");
