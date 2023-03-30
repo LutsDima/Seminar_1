@@ -1,0 +1,15 @@
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.csproj.AssemblyReference.cache
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.AssemblyInfoInputs.cache
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.AssemblyInfo.cs
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/bin/Debug/net7.0/Seminar_1
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/bin/Debug/net7.0/Seminar_1.deps.json
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/bin/Debug/net7.0/Seminar_1.runtimeconfig.json
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/bin/Debug/net7.0/Seminar_1.dll
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/bin/Debug/net7.0/Seminar_1.pdb
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.dll
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/refint/Seminar_1.dll
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.pdb
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/Seminar_1.genruntimeconfig.cache
+/Users/dmitrij/Desktop/GEEKBRAIN4242/Seminar_1/obj/Debug/net7.0/ref/Seminar_1.dll
