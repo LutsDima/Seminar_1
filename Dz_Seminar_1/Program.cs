@@ -27,23 +27,42 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
+// Console.Clear();
+// Console.Write("Введите первое число: ");
+// double Number_a = Convert.ToDouble(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// double Number_b = Convert.ToDouble(Console.ReadLine()); 
+// Console.Write("Введите третье число: ");
+// double Number_c = Convert.ToDouble(Console.ReadLine()); 
+// double Number_max = Number_a;
+
+// if (Number_a > Number_b)
+// {
+//     Number_max = Number_a;
+// }
+// else if (Number_b > Number_c)
+// {
+//     Number_max = Number_b;
+// }
+// else Number_max = Number_c;
+
+// Console.WriteLine($"Максимальное число = {Number_max}");
+
+// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+// 4 -> да
+// -3 -> нет
+// 7 -> нет
+
 Console.Clear();
-Console.Write("Введите первое число: ");
-double Number_a = Convert.ToDouble(Console.ReadLine());
-Console.Write("Введите второе число: ");
-double Number_b = Convert.ToDouble(Console.ReadLine()); 
-Console.Write("Введите третье число: ");
-double Number_c = Convert.ToDouble(Console.ReadLine()); 
-double Number_max = Number_a;
+Console.Write("Введите число: ");
+int Number_a = Convert.ToInt32(Console.ReadLine());
 
-if (Number_a > Number_b)
+if (Number_a%2 == 0 )
 {
-    Number_max = Number_a;
+    Console.WriteLine($"Число {Number_a} четное.");
 }
-else if (Number_b > Number_c)
+else 
 {
-    Number_max = Number_b;
+    Console.WriteLine($"Число {Number_a} нечетное.");
 }
-else Number_max = Number_c;
 
-Console.WriteLine($"Максимальное число = {Number_max}");
